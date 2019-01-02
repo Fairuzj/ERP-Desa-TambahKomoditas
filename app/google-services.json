@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "114373218697",
+    "firebase_url": "https://erp-desa.firebaseio.com",
+    "project_id": "erp-desa",
+    "storage_bucket": "erp-desa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114373218697:android:39e0a3eba584a01e",
+        "android_client_info": {
+          "package_name": "com.my.projekPKL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114373218697-8hq1hel027rbsfr9b0fem6l6e7ees0g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKKl9RAurdgFHjiCLNiPJeyUB8cz6CUbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
